@@ -1,0 +1,4 @@
+[submodule "git-2"]
+	path = git-2
+	url = https://github.com/gdpbird/git-2.git
+	branch = master
